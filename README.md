@@ -23,6 +23,7 @@ sdfsdfsdfsdfsdfds [klicke um auf web.de zu kommen](https://web.de)
     - commits nach github pushen : `git push`
     - git commits anschauen : `git log`
     - änderungen von github pullen : `git pull`
+    - aktuellen git status anschauen : `git status`
 
 
     
