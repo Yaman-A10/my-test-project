@@ -16,6 +16,8 @@ sdfsdfsdfsdfsdfds [klicke um auf web.de zu kommen](https://web.de)
 
 # nochmal nachlesen 
 
+- README.md : markdown format
+
 - git
     - repository initialisieren : `git init`
     - alle geänderte dateien stagen : `git add .`
