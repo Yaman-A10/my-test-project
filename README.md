@@ -20,7 +20,9 @@ sdfsdfsdfsdfsdfds [klicke um auf web.de zu kommen](https://web.de)
     - repository initialisieren : `git init`
     - alle geänderte dateien stagen : `git add .`
     - gestagedte dateien commiten : `git commit`
-    - commits nach github püushen : `git push`
+    - commits nach github pushen : `git push`
+    - git commits anschauen : `git log`
+    - änderungen von github pullen : `git pull`
 
 
     
